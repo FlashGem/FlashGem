@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: still what I was born
-- ⚡ Fun fact: I am a 1976 Viet Nam protestor redy to riot in DC over DOGE.
+- ⚡ Fun fact: I am a 1976 Viet Nam protestor ready to riot in DC over DOGE.
 
 <!---
 FlashGem/FlashGem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
